@@ -1,1 +1,1 @@
-Currently, I have created a grade Calculator program which was in my other repository and I moved it from there to here so now I can implement or put all my python programs in here. 
+Currently, I have transferred all my python programs from my old repository so now I can implement or put all my python programs in here. I'm currently learning Java so I'll have to make a java repo to store my java programs.
